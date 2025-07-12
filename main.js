@@ -1,0 +1,1 @@
+console.log('FreddieGPT is now live with a pre-built dist folder!');
